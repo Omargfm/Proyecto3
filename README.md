@@ -9,7 +9,7 @@ Este proyecto es una aplicación web que muestra una lista de países y un gráf
 - Muestra detalles de un país al hacer clic en su tarjeta.
 - Representa la distribución de los países por región mediante un gráfico circular.
 
-## Cómo Utilizar
+## Cómo utilizar 
 
 1. Clona este repositorio en tu máquina local.
 2. Abre el archivo `index.html` en tu navegador web.
